@@ -1,5 +1,5 @@
 #include <stdio.h>
-#incluide <stdlib.h>
+#include <stdlib.h>
 
 int main(){
 	//Un hola mundo en C
