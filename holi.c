@@ -4,7 +4,7 @@
 int main(){
 	//Un hola mundo en C
 	printf("holi\n")
-	65456465
+	20131971
 	khk
 	holi\n
 	
