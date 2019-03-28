@@ -3,6 +3,10 @@
 
 int main(){
 	//Un hola mundo en C
-	printf("holi\n");
+	printf("holi\n")
+	65456465
+	khk
+	holi\n
+	
 	return 0;
 }
